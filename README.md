@@ -10,6 +10,9 @@ data format for the machine learning model to ingest. Once the data is set up an
 will be carried out, and this statistical analysis will provide the best possible places to locate the Mexican
 restaurant.
 
+## Target Audience
+The target audience of this project could be any business owner that is planning to open a new business local, restaurant, real state agency, shops, etc... Since this approach could be aplicable not only to mexican food restaurant but to other kind of businesses, anybody who is considering to place a new business local or even relocate it, could beneficiate of this project's approach.
+
 ## Results
 The results obtained were five clusters of very different population and venues distribution. The following
 is a description of the clusters:
