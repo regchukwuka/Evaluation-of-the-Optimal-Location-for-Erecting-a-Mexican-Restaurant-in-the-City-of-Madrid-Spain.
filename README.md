@@ -27,5 +27,5 @@ are soccer fields, burger joint, plaza, fast food restaurants.
 
 ## File management
 
-The notebook (.ipnyb) contains a detailed step from start to finish, while the .pdf is a report presented to IBM.
+The [notebook (.ipnyb)](https://github.com/rcmolokwu/Evaluation-of-the-Optimal-Location-for-Erecting-a-Mexican-Restaurant-in-the-City-of-Madrid-Spain./blob/5570c6a7e6f6ff0023372a29ba6ba6c424715f88/capstone%20(1).ipynb) contains a detailed step from start to finish, while the .pdf is a report presented to IBM.
 
